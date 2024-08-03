@@ -7,3 +7,7 @@ In Java, Armorstands are dispensed as full-size entities. This Addon attempts to
 The velocity bounds checking in use is still resulting in an occasional false-negative, resulting in an occasional armorstand item being dispensed instead of an entity. I'm open to suggestions.
 
 -Gyver5681
+
+## ToDo:
+* Create a pack icon.
+* Package up an actual addon.
