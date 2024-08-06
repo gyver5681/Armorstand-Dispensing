@@ -4,7 +4,7 @@
     "name": "Armorstand Dispensing Parity",
     "description": "Dispense Armorstands as Entities instead of Items (Java Parity) -by Gyver5681",
     "uuid": "31ee75fb-de8a-428a-875d-6fd8e2d00b29",
-    "version": [1, 0, 0],
+    "version": [1, 0, 1],
     "min_engine_version": [1, 20, 30]
   },
   "modules": [
@@ -13,7 +13,7 @@
       "language": "javascript",
       "type": "script",
       "uuid": "7cef5f3a-0c0a-468c-8f55-b3f5c82a2656",
-      "version": [1, 0, 0],
+      "version": [1, 0, 1],
       "entry": "scripts/main.js"
     }
   ],
