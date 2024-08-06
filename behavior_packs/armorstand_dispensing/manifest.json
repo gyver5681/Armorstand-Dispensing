@@ -5,7 +5,7 @@
     "description": "Dispense Armorstands as Entities instead of Items (Java Parity) -by Gyver5681",
     "uuid": "31ee75fb-de8a-428a-875d-6fd8e2d00b29",
     "version": [1, 0, 1],
-    "min_engine_version": [1, 20, 30]
+    "min_engine_version": [1, 21, 2]
   },
   "modules": [
     {
